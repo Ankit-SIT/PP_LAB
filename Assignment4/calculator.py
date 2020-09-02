@@ -91,5 +91,3 @@ def main():
 
         else:
             run = False
-
-main()
