@@ -1,3 +1,9 @@
+/*
+Ankit Das
+Student Class
+20th Sept. 2020
+*/
+
 #include<iostream>
 
 class Student{
